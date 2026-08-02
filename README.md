@@ -1,13 +1,12 @@
 # Hi, I'm Zohreh 👋
 
-## Backend Developer | PHP | Laravel | Next.js
+## Backend Developer | PHP | Laravel
 
 I am a Backend Developer focused on building scalable, maintainable, and business-oriented web applications.
 
 I specialize in **PHP and Laravel**, designing RESTful APIs, database architecture, clean code practices, and backend systems with a focus on performance and scalability.
 
-I also work with **Next.js, React, and Tailwind CSS** to build modern full-stack applications.
-
+I have experience exploring **Next.js, React, and Tailwind CSS** for building modern web interfaces and full-stack applications.
 ---
 
 ## 💻 Tech Stack
@@ -24,12 +23,14 @@ I also work with **Next.js, React, and Tailwind CSS** to build modern full-stack
 - Domain Driven Design (DDD)
 
 ### Frontend
-- Next.js
-- React.js
 - JavaScript
 - TypeScript
 - Tailwind CSS
 - Bootstrap
+Currently exploring:
+- Next.js
+- React
+- Modern Frontend Development
 
 ### Database & Tools
 - MySQL
@@ -57,8 +58,8 @@ Features:
 - Payment workflows
 
 **Technologies:**
-Laravel • MySQL • Redis • Next.js
-
+Laravel • MySQL • Redis
+Frontend: Next.js (integration experience)
 ---
 
 ### 🎯 Customer Loyalty Platform
