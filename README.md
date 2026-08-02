@@ -7,6 +7,7 @@ I am a Backend Developer focused on building scalable, maintainable, and busines
 I specialize in **PHP and Laravel**, designing RESTful APIs, database architecture, clean code practices, and backend systems with a focus on performance and scalability.
 
 I have experience exploring **Next.js, React, and Tailwind CSS** for building modern web interfaces and full-stack applications.
+
 ---
 
 ## 💻 Tech Stack
@@ -27,10 +28,8 @@ I have experience exploring **Next.js, React, and Tailwind CSS** for building mo
 - TypeScript
 - Tailwind CSS
 - Bootstrap
-Currently exploring:
-- Next.js
-- React
-- Modern Frontend Development
+- Next.js (Learning & Experience)
+- React.js (Learning & Experience)
 
 ### Database & Tools
 - MySQL
@@ -57,9 +56,10 @@ Features:
 - Customer management
 - Payment workflows
 
-**Technologies:**
+**Technologies:**  
 Laravel • MySQL • Redis
-Frontend: Next.js (integration experience)
+
+
 ---
 
 ### 🎯 Customer Loyalty Platform
@@ -73,8 +73,9 @@ Features:
 - Wallet system
 - Automated rewards
 
-**Technologies:**
+**Technologies:**  
 Laravel • MySQL • Queue • Events & Listeners
+
 
 ---
 
@@ -85,15 +86,17 @@ Laravel • MySQL • Queue • Events & Listeners
 - DDD & Clean Architecture
 - Cloud & DevOps Fundamentals
 
+
 ---
 
 ## 🤝 Let's Connect
 
-LinkedIn:
+LinkedIn:  
 https://www.linkedin.com/in/zohreh-beyranvand-6341273a5/
 
-GitHub:
+GitHub:  
 https://github.com/zohreh-beyranvand
+
 
 ---
 
